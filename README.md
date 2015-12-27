@@ -11,9 +11,8 @@ These instructions are for Ubuntu:
 
 ## Configure
     cp conf/config.ini.sample conf/config.ini
-    vim conf/config.ini
-
 Edit your config file
+    vim conf/config.ini
 
 ## Execute
 ./process-recipe.py
