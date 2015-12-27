@@ -1,0 +1,16 @@
+[Pocket]
+username: my_username
+password: my_password
+tag: kindle
+
+[Kindle]
+address: my_kindle_address@kindle.com
+
+[Smtp Server]
+server: smtp.gmail.com
+port: 587
+username: my_mailer@gmail.com
+password: my_password
+
+[Personnal Address]
+address: my_personnal@address.com
