@@ -1,0 +1,6 @@
+# Config file
+*.ini
+
+# Generated my the app
+*.mobi
+*.log
