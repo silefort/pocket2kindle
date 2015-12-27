@@ -3,6 +3,8 @@
 This python app uses calibre to fetch your articles from your Pocket account and send it to your Kindle
 
 ## Install
+These instructions are for Ubuntu:
+
     sudo apt-get install calibre
     git clone git@github.com:silefort/pocket2kindle.git
     cd pocket2kindle
@@ -16,5 +18,5 @@ Edit your config file
 ## Execute
 ./process-recipe.py
 
-## Acknowledgement
+## Acknowledgements
 * https://github.com/chris838/calibre-kindle-server
