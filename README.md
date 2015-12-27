@@ -10,8 +10,10 @@ These instructions are for Ubuntu:
     cd pocket2kindle
 
 ## Configure
+
     cp conf/config.ini.sample conf/config.ini
 Edit your config file
+
     vim conf/config.ini
 
 ## Execute
